@@ -40,4 +40,4 @@ I'm currently a beginner Python-developer. I started learning from Coursera (Pyt
 
 ## 🔥 Stats
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=zebrahr&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zebrahr&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile&size_weight=0.5&count_weight=0.5">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zebrahr&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile">
