@@ -1,4 +1,6 @@
-![Header](https://github.com/ZebraHr/ZebraHr/blob/main/assets/profile1.jpg)
+<div align="center">
+  <img src="https://github.com/ZebraHr/ZebraHr/blob/main/assets/profile1.jpg"  />
+</div>
 
 <h1 align="center">Hi there👋 My name is Anna!</h1>
 
@@ -25,7 +27,7 @@ I'm currently a beginner Python-developer. I started learning from Coursera (Pyt
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0000FF&font=Open+Sans&lines=Feel+free+to+contact+me+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%4682B4&font=Open+Sans&lines=Feel+free+to+contact+me+😉)](https://git.io/typing-svg)
 
 ## 🛠 Languages and Tools
 
