@@ -1,13 +1,28 @@
-### Hi there👋 My name is Anna Pobedonostseva. I'm Python-developer.
+### Hi there👋 My name is Anna!
 
-👯 I’m looking to collaborate on new pet projects.
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zebrahr.zebrahr&"  />
+</div>
+
+## 👩‍💻 About me
+I'm currently a beginner Python-developer. I started learning from Coursera (Python 3 of Michigan University). Then I continued with Yandex Praktikum (Python-developer plus). 
+
+- 👯 I’m looking to collaborate on new pet projects.
+- 📚 Finished Coursera and Yandex Praktikum courses
 
 📫 How to reach me:
-- [Telegram](https://t.me/zerbrahr)
-- [Habr Career](https://career.habr.com/zebrahr)
 
+  <a href="https://t.me/zebrahr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 
-## Languages and Tools
+  <a href="https://career.habr.com/zebrahr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
+  </a>
+
+### Feel free to contact me 😉
+
+## 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)
@@ -23,7 +38,7 @@
 ![GithubActions](https://img.shields.io/badge/POSTMAN-FF8C00.svg?&style=flat&logo=postman&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/FLASK-ADD8E6.svg?&style=flat&logo=flask&logoColor=white)
 
-## Stats
+## 🔥 Stats
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=zebrahr&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zebrahr&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css&size_weight=0.5&count_weight=0.5">
