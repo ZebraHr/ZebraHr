@@ -20,6 +20,7 @@ I'm currently a beginner Python-developer. I started learning from Coursera (Pyt
     <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
   </a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%5F9EA0FF&font=Open+Sans&lines=Feel+free+to+contact+me+😉)](https://git.io/typing-svg)
 ### Feel free to contact me 😉
 
 ## 🛠 Languages and Tools
@@ -40,13 +41,10 @@ I'm currently a beginner Python-developer. I started learning from Coursera (Pyt
 
 ## 🔥 Stats
 
-<!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=zebrahr&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zebrahr&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile"> -->
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zebrahr&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zebrahr&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile)
+[![Stats](https://github-readme-stats.vercel.app/api?username=zebrahr&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zebrahr&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zebrahr&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zebrahr&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zebrahr&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
 
