@@ -20,7 +20,7 @@ I'm currently a beginner Python-developer. I started learning from Coursera (Pyt
     <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
   </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%006AFF&font=Open+Sans&lines=Feel+free+to+contact+me+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%f0579C3&font=Open+Sans&lines=Feel+free+to+contact+me+😉)](https://git.io/typing-svg)
 
 ## 🛠 Languages and Tools
 
