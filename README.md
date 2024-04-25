@@ -1,4 +1,4 @@
-![Header](https://github.com/ZebraHr/ZebraHr/blob/main/assets/zIU1KhtiZUY.jpg)
+![Header](https://github.com/ZebraHr/ZebraHr/blob/main/assets/profile.jpg)
 
 <h1 align="center">Hi there👋 My name is Anna!</h1>
 
