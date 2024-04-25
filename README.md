@@ -1,6 +1,6 @@
-### Hi there👋 My name is Anna!
+<h1 align="center">Hi there👋 My name is Anna!</h1>
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zebrahr.zebrahr&"  />
 </div>
 
