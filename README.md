@@ -1,3 +1,5 @@
+![Header](https://github.com/ZebraHr/ZebraHr/blob/main/assets/zIU1KhtiZUY.jpg)
+
 <h1 align="center">Hi there👋 My name is Anna!</h1>
 
 <div align="center">
