@@ -16,13 +16,13 @@ I'm currently a beginner Python-developer. I started learning from Coursera (Pyt
 
 📫 How to reach me:
 
-  <a href="https://t.me/zebrahr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+<a href="https://t.me/zebrahr" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</a>
 
-  <a href="https://career.habr.com/zebrahr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
-  </a>
+<a href="https://career.habr.com/zebrahr" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
+</a>
 
 
 
