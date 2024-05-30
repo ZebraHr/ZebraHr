@@ -20,9 +20,11 @@ I'm junior Python-developer. I started learning from Coursera (Python 3 of Michi
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
 
+
 <a href="https://career.habr.com/zebrahr" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
 </a>
+
 
 <a href="https://linkedin.com/in/zebrahr" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007FFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"  />
